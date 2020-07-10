@@ -1,4 +1,33 @@
-### Hi there 👋
+# 0tarof
+
+I'm server side engineer at CyberAgent, Inc./AJA, Inc.
+
+## Basic information
+
+Name: Taro Furukawa a.k.a. tarof  
+Website: https://tarof.dev
+
+### Skills
+
+Language | Level
+--|--
+Go | 🌟🌟🌟🌟
+Perl | 🌟🌟🌟
+HTML/CSS | 🌟🌟🌟
+Java | 🌟🌟🌟
+Kotlin | 🌟🌟🌟
+Swift | 🌟🌟
+
+### Languages
+
+- Japanese  
+Native
+- English  
+Very, very, little. Eigo chotto dekiru.
+
+## Job history
+
+Writing...
 
 <!--
 **0tarof/0tarof** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
