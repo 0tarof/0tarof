@@ -1,6 +1,6 @@
 # 0tarof
 
-I'm server side engineer at CyberAgent, Inc./AJA, Inc.
+I'm backend engineer at CyberAgent, Inc./AJA, Inc.
 
 ## Basic information
 
