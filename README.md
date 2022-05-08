@@ -1,3 +1,5 @@
+![0tarof's GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=0tarof&count_private=true&show_icons=true)
+
 # 0tarof
 
 I'm backend engineer at CyberAgent, Inc./AJA, Inc.
